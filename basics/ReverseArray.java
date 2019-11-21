@@ -10,7 +10,7 @@ public class ReverseArray {
        
 
         String[] actualArray = new String[]{"vishnu","srini","ranjit","vinay","varada","senthil"};
-        int arrayLength = actualArray.length;
+        //int arrayLength = actualArray.length;
         String[] reversedArray = reverseArrayList(actualArray);
 
         //for(int k = 0; k < arrayLength; k++){
